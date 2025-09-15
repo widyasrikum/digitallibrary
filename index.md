@@ -16,7 +16,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [The Borrowed](ebook/Chan Ho-Kei - The Borrowed (13.67).pdf) - Chan Ho-Kei (2019)
 10. [Leadership Practices Inventory](ebook/lpi-dp_book.pdf) - James M. Kouzes dkk (2013)
 11. [Samantha](ebook/Kumpul PDF - Samantha by Risa Saraswati.pdf) - Risa Saraswati (2018)
-12. [Ringkasan Widya](ebook/Ringkasan Widya.pdf)
+12. [Ringkasan Widya](ebook/Ringkasan Widya.pdf) - Widya Sri (2025)
 
 ---
 
