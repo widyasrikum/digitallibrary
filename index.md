@@ -18,6 +18,15 @@ Berikut ini adalah Koleksi yang dimiliki:
 11. [Samantha](ebook/Kumpul PDF - Samantha by Risa Saraswati.pdf) - Risa Saraswati (2018)
 12. [Ringkasan Widya](ebook/Ringkasan Widya.pdf) - Widya Sri (2025)
 
----
+<nav style="text-align:center; margin-bottom:20px;">
+  <a href="webti/halaman1.html">Halaman 1</a> |
+  <a href="webti/halaman2.html">Halaman 2</a> |
+  <a href="webti/halaman3.html">Halaman 3</a> |
+  <a href="webti/halaman4.html">Halaman 4</a> |
+  <a href="webti/halaman5.html">Halaman 5</a> |
+  <a href="webti/halaman6.html">Halaman 6</a> |
+  <a href="webti/halaman7.html">Halaman 7</a>
+</nav>
+
 
 *Powered by GitHub Pages*
